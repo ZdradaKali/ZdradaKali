@@ -41,10 +41,10 @@
   <img src="https://img.shields.io/badge/Android-Samsung%20Galaxy%20S22%20Ultra%205G-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
 
-<h3 align="center">
-<a>💻 My known OS's</a>
-</h3>
-<p align="center">
+<details>
+<summary>
+💻 My known OS's
+</summary>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-</p>
+</details>
 
 <details>
 <summary>
@@ -69,22 +69,6 @@
   <img src="https://img.shields.io/badge/PlayStation-Zdradamus-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xbox-ZdradaKali-107C10?style=for-the-badge&logo=xbox&logoColor=white"/>
 </details>
-<details>
-<summary>
-🎶 My musics platforms
-</summary>
-<img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=Tidal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
-</details>
-
-
-
-
-
 
 <!--
 **H4tsuneM1ku/H4tsuneM1ku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
