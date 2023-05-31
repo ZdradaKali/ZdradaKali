@@ -41,10 +41,10 @@
 <summary>
 💻 My workspace
 </summary>
-<h2 align="center">
+<h2">
 <a>🎮 Games</a>
 </h2>
-<p align="center">
+<p">
   <img src="https://img.shields.io/badge/Steam-Richard%20La%20Ruina-000000?style=for-the-badge&logo=steam&logoColor=white"/>
     <img src="https://img.shields.io/badge/Riot_Games-ZdradaKali%20(EUW)-D32936?style=for-the-badge&logo=riot-games&logoColor=white"/>
   <img src="https://img.shields.io/badge/Battle.net-H4tsuneM1ku-000?style=for-the-badge&logo=battle.net&logoColor=148EFF"/>
