@@ -41,7 +41,7 @@
 <summary>
 💻 My workspace
 </summary>
-<h2">
+<h2 align="left">
 <a>🎮 Games</a>
 </h2>
 <p">
