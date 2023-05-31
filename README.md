@@ -44,7 +44,6 @@
 <h2 align="left">
 <a>🎮 My games platforms</a>
 </h2>
-<p>
   <a href="https://steamcommunity.com/id/ZdradaKali/" ><img src="https://img.shields.io/badge/Steam-Richard%20La%20Ruina-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Riot_Games-ZdradaKali%20(EUW)-D32936?style=for-the-badge&logo=riot-games&logoColor=white"/>
   <img src="https://img.shields.io/badge/Battle.net-H4tsuneM1ku-000?style=for-the-badge&logo=battle.net&logoColor=148EFF"/>
@@ -53,7 +52,6 @@
   <img src="https://img.shields.io/badge/Nintendo_Switch-SW%208535%205305%200515-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white"/>
   <img src="https://img.shields.io/badge/PlayStation-Zdradamus-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xbox-ZdradaKali-107C10?style=for-the-badge&logo=xbox&logoColor=white"/>
-  </p>
 </details>
 
 
