@@ -1,7 +1,9 @@
 
-<h3 align="center"> 
+<h3 align="center">
+<p>
 <a><g-emoji class="g-emoji" alias="clipboard" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cb.png">📋</g-emoji> Language</a>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    </p>
 </h3>
 
 <p align="center">
