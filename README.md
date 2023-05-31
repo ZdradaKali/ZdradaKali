@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/Battle.net-H4tsuneM1ku-000?style=for-the-badge&logo=battle.net&logoColor=148EFF"/>
   <img src="https://img.shields.io/badge/Epic%20Games-ZdradaKali-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"/>
   <img src="https://img.shields.io/badge/Origin-ZdradaKali-e95721?style=for-the-badge&logo=origin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nintendo_Switch-SW%208535%205305%200515-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nintendo_Switch-SW%208535%205305%200515-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white"/></br>
   <img src="https://img.shields.io/badge/PlayStation-Zdradamus-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xbox-ZdradaKali-107C10?style=for-the-badge&logo=xbox&logoColor=white"/>
 </details>
