@@ -38,15 +38,28 @@
   <img src="https://img.shields.io/badge/intel-core%20i9%209900K-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAM-64GB-%230071C5.svg?&style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/NVIDIA-RTX 2080Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-Samsung%20Galaxy%20S22%20Ultra%205G-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+</p>
+
+<h3 align="center">
+<a>💻 My known OS's</a>
+</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
 <details>
 <summary>
-🎮 My games
+🎮 My games platforms
 </summary>
-<h2 align="left">
-<p>Platforms</p>
-</h2>
+<img src="https://img.shields.io/badge/Discord-Kali-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   <a href="https://steamcommunity.com/id/ZdradaKali/" ><img src="https://img.shields.io/badge/Steam-Richard%20La%20Ruina-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Riot_Games-ZdradaKali%20(EUW)-D32936?style=for-the-badge&logo=riot-games&logoColor=white"/>
   <img src="https://img.shields.io/badge/Battle.net-H4tsuneM1ku-000?style=for-the-badge&logo=battle.net&logoColor=148EFF"/>
@@ -55,19 +68,17 @@
   <img src="https://img.shields.io/badge/Nintendo_Switch-SW%208535%205305%200515-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white"/>
   <img src="https://img.shields.io/badge/PlayStation-Zdradamus-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xbox-ZdradaKali-107C10?style=for-the-badge&logo=xbox&logoColor=white"/>
-
-<h2 align="left">
-<p>Platforms</p>
-</h2>
-  <a href="https://steamcommunity.com/id/ZdradaKali/" ><img src="https://img.shields.io/badge/Steam-Richard%20La%20Ruina-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Riot_Games-ZdradaKali%20(EUW)-D32936?style=for-the-badge&logo=riot-games&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Battle.net-H4tsuneM1ku-000?style=for-the-badge&logo=battle.net&logoColor=148EFF"/>
-  <img src="https://img.shields.io/badge/Epic%20Games-ZdradaKali-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Origin-ZdradaKali-e95721?style=for-the-badge&logo=origin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nintendo_Switch-SW%208535%205305%200515-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PlayStation-Zdradamus-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Xbox-ZdradaKali-107C10?style=for-the-badge&logo=xbox&logoColor=white"/>
-
+</details>
+<details>
+<summary>
+🎶 My musics platforms
+</summary>
+<img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=Tidal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
 </details>
 
 
