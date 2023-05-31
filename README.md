@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</p>
 
 <h3 align="center">
 <a>🖍 Design</a>
@@ -27,6 +28,7 @@
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 
 <h3 align="center">
 <a>💻 My workspace</a>
@@ -36,13 +38,14 @@
   <img src="https://img.shields.io/badge/intel-core%20i9%209900K-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAM-64GB-%230071C5.svg?&style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/NVIDIA-RTX 2080Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+</p>
 
 <details>
 <summary>
-💻 My workspace
+🎮 My games platforms
 </summary>
 <h2 align="left">
-<a>🎮 My games platforms</a>
+<p>🎮 My games platforms</p>
 </h2>
   <a href="https://steamcommunity.com/id/ZdradaKali/" ><img src="https://img.shields.io/badge/Steam-Richard%20La%20Ruina-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Riot_Games-ZdradaKali%20(EUW)-D32936?style=for-the-badge&logo=riot-games&logoColor=white"/>
