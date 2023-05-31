@@ -45,13 +45,13 @@
 <summary>
 💻 My known OS's
 </summary>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></br>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/></br>
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/></br>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/></br>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/></br>
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/></br>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></br>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </details>
 
@@ -60,7 +60,7 @@
 🎮 My games platforms
 </summary>
 <img src="https://img.shields.io/badge/Discord-Kali-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></br>
-  <a href="https://steamcommunity.com/id/ZdradaKali/" ><img src="https://img.shields.io/badge/Steam-Richard%20La%20Ruina-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
+  <a href="https://steamcommunity.com/id/ZdradaKali/" ><img src="https://img.shields.io/badge/Steam-Richard%20La%20Ruina-000000?style=for-the-badge&logo=steam&logoColor=white"/></a></br>
     <img src="https://img.shields.io/badge/Riot_Games-ZdradaKali%20(EUW)-D32936?style=for-the-badge&logo=riot-games&logoColor=white"/></br>
   <img src="https://img.shields.io/badge/Battle.net-H4tsuneM1ku-000?style=for-the-badge&logo=battle.net&logoColor=148EFF"/></br>
   <img src="https://img.shields.io/badge/Epic%20Games-ZdradaKali-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"/></br>
