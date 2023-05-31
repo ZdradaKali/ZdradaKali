@@ -41,17 +41,18 @@
 <summary>
 💻 My workspace
 </summary>
-<h3 align="center">
+<h2 align="center">
 <a>🎮 Games</a>
-</h3>
+</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Battle.net-H4tsuneM1ku#2593-000?style=for-the-badge&logo=battle.net&logoColor=148EFF"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Steam-Richard%20La%20Ruina-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Riot_Games-ZdradaKali%20(EUW)-D32936?style=for-the-badge&logo=riot-games&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Battle.net-H4tsuneM1ku-000?style=for-the-badge&logo=battle.net&logoColor=148EFF"/>
+  <img src="https://img.shields.io/badge/Epic%20Games-ZdradaKali-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Origin-ZdradaKali-e95721?style=for-the-badge&logo=origin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nintendo_Switch-SW%208535%205305%200515-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PlayStation-Zdradamus-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xbox-ZdradaKali-107C10?style=for-the-badge&logo=xbox&logoColor=white"/>
 </details>
 
 
