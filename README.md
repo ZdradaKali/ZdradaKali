@@ -1,7 +1,7 @@
 
-<h2 align="center"> 
+<h3 align="center"> 
 <a href="#-language"><g-emoji class="g-emoji" alias="clipboard" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cb.png">📋</g-emoji> Language</a>
-</h2>
+</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/alexandresanlim/" rel="nofollow">
