@@ -71,7 +71,7 @@
 </details>
 
 <p align="center">
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" alt="This is a Rick Roll"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"> <img src="https://img.shields.io/badge/This%20is%20a%20Rick%20Roll-000000?style=for-the-badge&logo=facepunch&logoColor=white"/></a>
 </p>
 
 <!--
