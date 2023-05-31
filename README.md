@@ -70,8 +70,8 @@
   <img src="https://img.shields.io/badge/Xbox-ZdradaKali-107C10?style=for-the-badge&logo=xbox&logoColor=white"/>
 </details>
 
-<p align="center">
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"> <img src="https://img.shields.io/badge/Click%20here%20at%20your%20own%20risks-000000?style=for-the-badge&logo=facepunch&logoColor=white"/></a>
+<p align="right">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_self"> <img src="https://img.shields.io/badge/Click%20here%20at%20your%20own%20risks-000000?style=for-the-badge&logo=facepunch&logoColor=white"/></a>
 </p>
 
 <!--
