@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="center">
-<a><g-emoji class="g-emoji" alias="clipboard" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cb.png">📋</g-emoji> Language</a>
+<a>📋 Language</a>
 </h3>
 
 
