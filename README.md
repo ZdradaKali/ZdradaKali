@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center">
-<a>📋 Learning Languages</a>
+<a>🎓 Learning Languages</a>
 </h3>
 
 <p align="center">
