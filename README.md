@@ -1,10 +1,19 @@
 
 <h3 align="center">
-<a>📋 Language</a>
+<a>📋 Languages</a>
 </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+
+<h3 align="center">
+<a>📋 Learning Languages</a>
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-f16529?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
