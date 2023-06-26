@@ -54,10 +54,10 @@
 <a>🧰 My workspace</a>
 </h3>
 <h4 align="center">
-<a>🖥️ Dekstop</a>
+<a>🖥️ Desktop</a>
 </h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows_11_Professional-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows_11_Pro-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"/>
   <img src="https://img.shields.io/badge/intel-core%20i9%209900K-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/></br>
   <img src="https://img.shields.io/badge/RAM-64GB-%230071C5.svg?&style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/NVIDIA-RTX 2080Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
@@ -66,7 +66,7 @@
 <a>💻 Laptop</a>
 </h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows_11_Professional-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows_11_Pro-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"/>
   <img src="https://img.shields.io/badge/intel-core%20i7%2013700H-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white"/></br>
   <img src="https://img.shields.io/badge/NVIDIA-RTX 4060 MaxQ-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
