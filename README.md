@@ -17,6 +17,15 @@
   <img src="https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
+<h3 align="center">
+<a>🔨 Web Tools</a>
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MAMP-257caf?style=for-the-badge&logo=mamp&logoColor=white"/>
+</p>
+
 
 <h3 align="center">
 <a>👩‍💻 IDE</a>
