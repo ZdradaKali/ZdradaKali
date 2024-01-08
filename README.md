@@ -71,7 +71,6 @@
   <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white"/></br>
   <img src="https://img.shields.io/badge/NVIDIA-RTX 4060 MaxQ-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-Samsung%20Galaxy%20Z%20Fold5-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-</p>
   <img src="https://img.shields.io/badge/Android-Samsung%20Galaxy%20S22%20Ultra%205G-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
 
