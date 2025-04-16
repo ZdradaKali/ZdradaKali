@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/Windows_11_Pro-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"/>
   <img src="https://img.shields.io/badge/amd-ryzen%209%209950X3D-%23f05902.svg?&style=for-the-badge&logo=amd&logoColor=white"/></br>
   <img src="https://img.shields.io/badge/corsair-dominator%20titanium%20DDR5%2064GB-%23e8e40e.svg?&style=for-the-badge&logo=corsair&logoColor=white)"/>
-  <img src="https://img.shields.io/badge/NVIDIA-RTX 5080-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA-RTX%205090%20Asus%20Astral%20LC-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
 <h4 align="center">
 <a>💻 Laptop</a>
