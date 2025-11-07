@@ -57,7 +57,7 @@
 <a>🖥️ Desktop</a>
 </h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows_11_Pro-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROG-Windows%2011%20Pro-%23FF0029.svg?&style=for-the-badge&logo=republic%20of%20gamers&logoColor=white"/>
   <img src="https://img.shields.io/badge/amd-ryzen%209%209950X3D-%23f05902.svg?&style=for-the-badge&logo=amd&logoColor=white"/></br>
   <img src="https://img.shields.io/badge/corsair-dominator%20titanium%20DDR5%2064GB-%23e8e40e.svg?&style=for-the-badge&logo=corsair&logoColor=white)"/>
   <img src="https://img.shields.io/badge/NVIDIA-RTX%205090%20Asus%20Astral%20LC-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
@@ -66,7 +66,7 @@
 <a>💻 Laptop</a>
 </h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Fedora-0078d4?style=for-the-badge&logo=fedora"/>
+  <img src="https://img.shields.io/badge/Fedora-Bazzite%20-%234934BF.svg?&style=for-the-badge&logo=fedora&logoColor=white"/>
   <img src="https://img.shields.io/badge/intel-core%20i7%2013700H-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white"/></br>
   <img src="https://img.shields.io/badge/NVIDIA-RTX 4060 MaxQ-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
