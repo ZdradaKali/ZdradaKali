@@ -70,8 +70,8 @@
   <img src="https://img.shields.io/badge/intel-core%20i7%2013700H-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white"/></br>
   <img src="https://img.shields.io/badge/NVIDIA-RTX 4060 MaxQ-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-Samsung%20Galaxy%20S25%20Ultra-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-Samsung%20Galaxy%20Z%20Fold5-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-Samsung%20Galaxy%20S22%20Ultra%205G-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
 
 <details>
@@ -104,7 +104,7 @@
 </details>
 
 <p align="right">
-<a href="https://cdn.upload.systems/uploads/pmoMXaHh.mp4" target="_blank"><img src="https://img.shields.io/badge/Click%20here%20at%20your%20own%20risks-000000?style=for-the-badge&logo=facepunch&logoColor=white"/></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://img.shields.io/badge/Click%20here%20at%20your%20own%20risks-000000?style=for-the-badge&logo=facepunch&logoColor=white"/></a>
 </p>
 
 <!--
